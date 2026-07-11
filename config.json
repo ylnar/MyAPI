@@ -1,11 +1,12 @@
 {
   "promotion": {
     "enabled": true,
-    "title": "Buat Undangan Seperti Ini?",
-    "description": "Tampilkan momen spesial Anda dengan undangan digital premium yang elegan, profesional, dan mudah dibagikan.",
-    "ctaText": "Hubungi Pengembang",
-    "url": "https://wa.me/6281276484493?text=Halo%2C%20saya%20tertarik%20untuk%20membuat%20undangan%20wisuda%20digital%20premium%20seperti%20ini.",
-    "catalogText": "Lihat Katalog Tema",
+    "brand": "Tautaku",
+    "title": "Ingin Buat Undangan Seperti Ini?",
+    "description": "Hadirkan kesan pertama yang istimewa dengan undangan digital premium dari Tautaku. Lihat berbagai pilihan desain yang siap mempercantik momen spesial Anda.",
+    "ctaText": "Konsultasi Sekarang",
+    "url": "https://wa.me/6281276484493?text=Halo%20Admin%20Tautaku%2C%20saya%20telah%20melihat%20katalog%20tema%20Anda%20dan%20tertarik%20untuk%20berkonsultasi%20mengenai%20pembuatan%20undangan%20wisuda%20digital%20premium.",
+    "catalogText": "Lihat Katalog",
     "catalogUrl": "https://github.com/jimmyranda"
   }
 }
